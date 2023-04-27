@@ -5,6 +5,7 @@
 node_modules
 ./dinosaur-generator/node_modules
 ./server-api/src/node_modules
+./Web API Simples/node_modules
 
 # Ignore all text files
 *.txt
